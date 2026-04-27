@@ -38,5 +38,3 @@ Se añadieron las siguientes dependencias al proyecto en el archivo `libs.versio
 - **KSP** (Kotlin Symbol Processing) para procesar las anotaciones de Room rápidamente.
 - **ViewModel Compose** para instanciar el ViewModel desde la jerarquía de vistas de Compose.
 
----
-¡Sincroniza el proyecto en Android Studio y disfruta de tu nueva aplicación!
